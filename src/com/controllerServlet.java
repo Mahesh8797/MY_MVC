@@ -42,9 +42,8 @@ public class controllerServlet extends HttpServlet {
 		}
 		else
 		{
-			out.println("Email id is incorrect! Please login with correct credentials");
-			RequestDispatcher rd=request.getRequestDispatcher("index.html");
-			rd.include(request, response);
+			RequestDispatcher rd=request.getRequestDispatcher("error.jsp");
+			rd.forward(request, response);
 		}
 	}
 
