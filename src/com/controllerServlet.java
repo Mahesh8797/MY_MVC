@@ -42,6 +42,7 @@ public class controllerServlet extends HttpServlet {
 		}
 		else
 		{
+			out.println("forwarding ");
 			RequestDispatcher rd=request.getRequestDispatcher("error.jsp");
 			rd.forward(request, response);
 		}
