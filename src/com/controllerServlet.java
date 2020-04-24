@@ -10,7 +10,7 @@ import javax.servlet.annotation.WebServlet;
 import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
-
+import java.sql.*;
 
 @WebServlet("/controllerServlet")
 public class controllerServlet extends HttpServlet {
@@ -37,8 +37,26 @@ public class controllerServlet extends HttpServlet {
 		String emailid=config.getInitParameter("email");
 		if(email.equals(emailid))
 		{
-		RequestDispatcher rd=request.getRequestDispatcher("success.jsp");
-		rd.forward(request, response);
+			try
+			{
+			Class.forName("com.mysql.jdbc.Driver");
+			Connection con= DriverManager.getConnection("jdbc:mysql://localhost:3306/MVC","root","root"); 
+			PreparedStatement ps=con.prepareStatement("Insert into MY values(?,?,?,?,?)");
+			ps.setString(1,fname);
+			ps.setString(2,lname);
+			ps.setString(3,email);
+			ps.setString(4,gender);
+			ps.setString(5,location);
+			int result=ps.executeUpdate();
+			out.println(result +" records updated in the db"); 
+			}
+			catch(Exception e)
+			{
+
+			}
+			RequestDispatcher rd=request.getRequestDispatcher("success.jsp");
+			rd.include(request, response);
+
 		}
 		else
 		{
