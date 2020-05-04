@@ -7,16 +7,8 @@
 <title>Insert title here</title>
 </head>
 <body>
-
-FirstName: ${res.getFname()}
-<br/>
-SecondName: ${res.getLname()}
-<br/>
-Email: ${res.getEmail()}
-<br/>
-Gender: ${res.getGender()}
-<br/>
-Location: ${res.getLocation()}
-
+<h4>
+<a href="login.do">CLICK HERE TO LOGIN</a>
+</h4>
 </body>
 </html>

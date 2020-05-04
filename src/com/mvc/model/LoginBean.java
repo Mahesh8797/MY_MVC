@@ -1,6 +1,9 @@
-package com;
+package com.mvc.model;
 
-public class UserBean 
+import org.springframework.stereotype.Component;
+
+@Component
+public class LoginBean
 {
 
 	private String fname;
@@ -8,10 +11,6 @@ public class UserBean
 	private String email;
 	private String gender;
 	private String location;
-	public UserBean() 
-	{
-		
-	}
 	public String getFname() {
 		return fname;
 	}
@@ -43,8 +42,4 @@ public class UserBean
 		this.location = location;
 	}
 	
-
 }
-		
-	
-
