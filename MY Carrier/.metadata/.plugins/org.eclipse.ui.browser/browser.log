@@ -1,0 +1,26 @@
+
+Apr 20, 2020 15:49:54.88 NEW SESSION
+Apr 20, 2020 15:49:54.88 C:\Program Files (x86)\Google\Chrome\Application\chrome.exe: invalid option -- `-u'
+Apr 20, 2020 15:49:54.88 Try 'chrome.exe --help' for more information.
+Apr 20, 2020 15:49:55.00 [0420/154955.007:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: The pipe has been ended. (0x6D)
+Apr 20, 2020 15:49:58.75 [2052:10948:0420/154958.750:ERROR:cache_util_win.cc(21)] Unable to move the cache: Access is denied. (0x5)
+Apr 20, 2020 15:49:58.75 [2052:10948:0420/154958.750:ERROR:cache_util.cc(135)] Unable to move cache folder C:\Users\MD5047428\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache to C:\Users\MD5047428\AppData\Local\Google\Chrome\User Data\ShaderCache\old_GPUCache_000
+Apr 20, 2020 15:49:58.75 [2052:10948:0420/154958.750:ERROR:disk_cache.cc(184)] Unable to create cache
+Apr 20, 2020 15:49:58.75 [2052:10948:0420/154958.750:ERROR:shader_disk_cache.cc(606)] Shader Cache Creation failed: -2
+Apr 20, 2020 15:49:59.93 Opening in existing browser session.
+Apr 20, 2020 15:51:56.93 C:\Program Files (x86)\Google\Chrome\Application\chrome.exe: invalid option -- `-u'
+Apr 20, 2020 15:51:56.95 Try 'chrome.exe --help' for more information.
+Apr 20, 2020 15:51:57.08 [0420/155157.082:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: The pipe has been ended. (0x6D)
+Apr 20, 2020 15:51:57.97 [4176:13972:0420/155157.971:ERROR:cache_util_win.cc(21)] Unable to move the cache: Access is denied. (0x5)
+Apr 20, 2020 15:51:57.97 [4176:13972:0420/155157.971:ERROR:cache_util.cc(135)] Unable to move cache folder C:\Users\MD5047428\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache to C:\Users\MD5047428\AppData\Local\Google\Chrome\User Data\ShaderCache\old_GPUCache_000
+Apr 20, 2020 15:51:57.97 [4176:13972:0420/155157.971:ERROR:disk_cache.cc(184)] Unable to create cache
+Apr 20, 2020 15:51:57.97 [4176:13972:0420/155157.971:ERROR:shader_disk_cache.cc(606)] Shader Cache Creation failed: -2
+Apr 20, 2020 15:52:00.45 Opening in existing browser session.
+Apr 20, 2020 15:52:12.57 C:\Program Files (x86)\Google\Chrome\Application\chrome.exe: invalid option -- `-u'
+Apr 20, 2020 15:52:12.57 Try 'chrome.exe --help' for more information.
+Apr 20, 2020 15:52:12.62 [0420/155212.622:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: The pipe has been ended. (0x6D)
+Apr 20, 2020 15:52:13.66 [5736:11556:0420/155213.666:ERROR:cache_util_win.cc(21)] Unable to move the cache: Access is denied. (0x5)
+Apr 20, 2020 15:52:13.67 [5736:11556:0420/155213.666:ERROR:cache_util.cc(135)] Unable to move cache folder C:\Users\MD5047428\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache to C:\Users\MD5047428\AppData\Local\Google\Chrome\User Data\ShaderCache\old_GPUCache_000
+Apr 20, 2020 15:52:13.67 [5736:11556:0420/155213.666:ERROR:disk_cache.cc(184)] Unable to create cache
+Apr 20, 2020 15:52:13.67 [5736:11556:0420/155213.666:ERROR:shader_disk_cache.cc(606)] Shader Cache Creation failed: -2
+Apr 20, 2020 15:52:17.10 Opening in existing browser session.

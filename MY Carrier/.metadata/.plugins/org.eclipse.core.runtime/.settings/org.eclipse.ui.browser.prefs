@@ -1,0 +1,4 @@
+browser-choice=0
+browsers=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<web-browsers current\="2">\r\n<system/>\r\n<external location\="C\:\\Program Files\\Internet Explorer\\iexplore.exe" name\="Internet Explorer"/>\r\n<external location\="C\:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe" name\="Chrome"/>\r\n</web-browsers>
+eclipse.preferences.version=1
+internalWebBrowserHistory=http\://localhost\:8080/Dynamic/ServletRequest?name\=mmm|*|http\://localhost\:8080/Dynamic/index.html|*|http\://localhost\:8080/Dynamic/ServletRequest?name\=mahe|*|http\://localhost\:8080/Dynamic/welcome?name\=mahe|*|http\://localhost\:8080/Dynamic/SecondHttp|*|http\://localhost\:8080/Dynamic/DemoServlet|*|http\://localhost\:8080/J2EE/FirstGeneric|*|http\://localhost\:8080/J2EE/WEB-INF/classes/Servlets/FirstGeneric.java|*|http\://localhost\:8080/SpringMVCHelloWorldExample/WEB-INF/classes/org/com/Hello.java|*|

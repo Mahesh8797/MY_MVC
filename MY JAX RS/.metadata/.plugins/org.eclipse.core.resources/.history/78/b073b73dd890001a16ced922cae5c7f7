@@ -1,0 +1,56 @@
+package com.mahe.MyFirstWebService.service;
+
+import java.util.ArrayList;
+import java.util.List;
+import java.util.Map;
+
+import com.mahe.MyFirstWebService.database.DatabaseClass;
+import com.mahe.MyFirstWebService.model.Message;
+import com.mahe.MyFirstWebService.model.Profile;
+
+public class ProfileService
+{
+private Map<String, Profile> profiles=DatabaseClass.getAllProfiles();
+	
+	public ProfileService()
+	{
+		profiles.put("Mahesh",new Profile(1,"MY","mahe","yoge"));
+		profiles.put("Mahesh",new Profile(1,"DK","dhana","kanni"));		
+	}
+	
+	
+	public List<Profile> getAllProfiles()
+	{
+		return new ArrayList<Profile>(profiles.values());
+	}
+	
+	public Profile getProfile(String name)
+	{
+		return profiles.get(name);
+	}
+	
+	public Profile addProfile(Profile profile)
+	{
+		profile.setId(profiles.size() +1 );
+		profiles.put((long) profile.getName(), profile);
+		return profile;
+	}
+	
+	public Message updateMessage(Message message)
+	{
+		if(message.getId()<=0)
+		{
+			return null;
+		}
+		messages.put(message.getId(), message);
+		return message;
+	}
+	
+	public Message remove(long id)
+	{
+		return messages.remove(id);
+	}
+	
+	
+
+}

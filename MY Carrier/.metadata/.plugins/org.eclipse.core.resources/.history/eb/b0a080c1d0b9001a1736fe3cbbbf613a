@@ -1,0 +1,25 @@
+package List;
+
+import java.util.AbstractList;
+
+public class SampleList extends AbstractList{
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		AbstractList<Integer> list=new AbstractList<Integer>();
+	}
+
+	@Override
+	public Object get(int arg0) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public int size() {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+}

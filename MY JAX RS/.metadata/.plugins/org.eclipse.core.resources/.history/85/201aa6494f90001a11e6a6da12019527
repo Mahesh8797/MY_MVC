@@ -1,0 +1,7 @@
+package com.mahe.MyFirstWebService.database;
+
+public class DatabaseClass
+{
+
+	private static Map<Long, Message> message=new  HashMap<>();
+}

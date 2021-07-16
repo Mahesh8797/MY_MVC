@@ -1,0 +1,11 @@
+package List;
+
+public class SampleList extends AbstractList{
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		
+	}
+
+}

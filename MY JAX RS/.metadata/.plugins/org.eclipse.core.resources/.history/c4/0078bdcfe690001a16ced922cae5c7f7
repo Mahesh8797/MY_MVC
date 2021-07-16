@@ -1,0 +1,5 @@
+package com.mahe.MyFirstWebService.resources;
+
+public class InjecctDependency {
+
+}

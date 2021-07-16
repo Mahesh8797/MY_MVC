@@ -1,0 +1,11 @@
+package com.mahe.MyFirstWebService.model;
+
+public class Profile 
+{
+
+	private int id;
+	private String profileName;
+	private String firstName;
+	private String lastName;
+	
+}

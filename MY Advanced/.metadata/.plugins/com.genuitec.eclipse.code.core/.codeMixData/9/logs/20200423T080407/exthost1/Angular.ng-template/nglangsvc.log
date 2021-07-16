@@ -1,0 +1,50 @@
+Info 0    [8:5:44.786] Format host information updated
+Info 1    [8:5:44.792] reload projects.
+Info 2    [8:5:44.792] Structure before ensureProjectForOpenFiles:
+Info 3    [8:5:44.793] Structure after ensureProjectForOpenFiles:
+Info 4    [8:5:44.793] Host file extension mappings updated
+Info 5    [8:5:45.962] Search path: c:/Users/MD5047428/Desktop/MY Advanced/JSPDirectives/WebContent
+Info 6    [8:5:45.967] For info: c:/Users/MD5047428/Desktop/MY Advanced/JSPDirectives/WebContent/errors.html :: No config files found.
+Info 7    [8:5:45.972] Loading global plugin @angular/language-service
+Info 8    [8:5:45.972] Enabling plugin @angular/language-service from candidate paths: c:/Users/MD5047428/Desktop/eclipse neon/eclipse neon/eclipse/plugins/pack.angular.win_3.6.0.202002112320/Angular.ng-template-0.900.4-fixed/node_modules/typescript/lib/tsserverlibrary.js/../../..,c:\Users\MD5047428\Desktop\eclipse neon\eclipse neon\eclipse\plugins\pack.angular.win_3.6.0.202002112320\Angular.ng-template-0.900.4-fixed\server\node_modules\@angular\language-service\bundles\language-service.umd.js
+Info 9    [8:5:45.973] Loading @angular/language-service from c:/Users/MD5047428/Desktop/eclipse neon/eclipse neon/eclipse/plugins/pack.angular.win_3.6.0.202002112320/Angular.ng-template-0.900.4-fixed/node_modules/typescript/lib/tsserverlibrary.js/../../.. (resolved to c:/Users/MD5047428/Desktop/eclipse neon/eclipse neon/eclipse/plugins/pack.angular.win_3.6.0.202002112320/Angular.ng-template-0.900.4-fixed/node_modules/node_modules)
+Info 10   [8:5:46.33] Loading @angular/language-service from c:\Users\MD5047428\Desktop\eclipse neon\eclipse neon\eclipse\plugins\pack.angular.win_3.6.0.202002112320\Angular.ng-template-0.900.4-fixed\server\node_modules\@angular\language-service\bundles\language-service.umd.js (resolved to c:/Users/MD5047428/Desktop/eclipse neon/eclipse neon/eclipse/plugins/pack.angular.win_3.6.0.202002112320/Angular.ng-template-0.900.4-fixed/server/node_modules/@angular/language-service/bundles/language-service.umd.js/node_modules)
+Info 11   [8:5:46.930] Plugin validation succeded
+Info 12   [8:5:46.940] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 13   [8:5:49.498] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 1 structureChanged: true Elapsed: 2558ms
+Info 14   [8:5:49.498] Project '/dev/null/inferredProject1*' (Inferred) 
+Info 15   [8:5:49.499] 	Files (6)
+
+Info 16   [8:5:49.499] -----------------------------------------------
+Info 17   [8:24:9.469] Search path: c:/Users/MD5047428/Desktop/MY Advanced/JSPDirectives/WebContent
+Info 18   [8:24:9.475] For info: c:/Users/MD5047428/Desktop/MY Advanced/JSPDirectives/WebContent/errors.html :: No config files found.
+Info 19   [8:24:9.488] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 20   [8:24:9.514] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 2 structureChanged: false Elapsed: 26ms
+Info 21   [8:24:9.514] Project '/dev/null/inferredProject1*' (Inferred) 
+Info 22   [8:24:9.514] 	Files (6)
+
+Info 23   [8:24:9.514] -----------------------------------------------
+Info 24   [8:24:15.839] Search path: c:/Users/MD5047428/Desktop/MY Advanced/JSPDirectives/WebContent
+Info 25   [8:24:15.844] For info: c:/Users/MD5047428/Desktop/MY Advanced/JSPDirectives/WebContent/errors.html :: No config files found.
+Info 26   [8:24:15.855] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 27   [8:24:15.863] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 3 structureChanged: false Elapsed: 8ms
+Info 28   [8:24:15.863] Project '/dev/null/inferredProject1*' (Inferred) 
+Info 29   [8:24:15.863] 	Files (6)
+
+Info 30   [8:24:15.863] -----------------------------------------------
+Info 31   [8:24:36.165] Search path: c:/Users/MD5047428/Desktop/MY Advanced/JSPDirectives/WebContent
+Info 32   [8:24:36.169] For info: c:/Users/MD5047428/Desktop/MY Advanced/JSPDirectives/WebContent/includeDirective.html :: No config files found.
+Info 33   [8:24:36.175] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 34   [8:24:36.199] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 4 structureChanged: true Elapsed: 24ms
+Info 35   [8:24:36.199] Project '/dev/null/inferredProject1*' (Inferred) 
+Info 36   [8:24:36.199] 	Files (6)
+
+Info 37   [8:24:36.199] -----------------------------------------------
+Info 38   [8:25:16.959] Search path: c:/Users/MD5047428/Desktop/MY Advanced/JSPDirectives/WebContent
+Info 39   [8:25:16.963] For info: c:/Users/MD5047428/Desktop/MY Advanced/JSPDirectives/WebContent/includeDirective.html :: No config files found.
+Info 40   [8:25:16.970] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 41   [8:25:16.973] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 5 structureChanged: false Elapsed: 3ms
+Info 42   [8:25:16.973] Project '/dev/null/inferredProject1*' (Inferred) 
+Info 43   [8:25:16.973] 	Files (6)
+
+Info 44   [8:25:16.973] -----------------------------------------------

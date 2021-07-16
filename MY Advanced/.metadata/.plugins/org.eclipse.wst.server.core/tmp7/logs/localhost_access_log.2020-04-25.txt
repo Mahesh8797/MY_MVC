@@ -1,0 +1,6 @@
+127.0.0.1 - - [25/Apr/2020:07:35:02 +0530] "GET / HTTP/1.1" 404 994
+0:0:0:0:0:0:0:1 - - [25/Apr/2020:07:35:06 +0530] "GET /X_AttributeProject/ HTTP/1.1" 200 892
+0:0:0:0:0:0:0:1 - - [25/Apr/2020:07:35:18 +0530] "GET /X_AttributeProject/ HTTP/1.1" 200 892
+0:0:0:0:0:0:0:1 - - [25/Apr/2020:07:35:19 +0530] "GET /favicon.ico HTTP/1.1" 404 1016
+0:0:0:0:0:0:0:1 - - [25/Apr/2020:07:36:04 +0530] "GET /X_AttributeProject/ HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [25/Apr/2020:07:36:18 +0530] "POST /X_AttributeProject/OnSubmit.do HTTP/1.1" 200 448

@@ -1,0 +1,18 @@
+{
+    "telemetry.machineId": "12d9a8e2dbe2bcb88c766fa051a7e108884b96750fb415ea199f88d64a28d8d5",
+    "openedPathsList": {
+        "workspaces3": [
+            {
+                "id": "8f0bd75674eea381070c0bdbf068472a",
+                "configURIPath": "file:///c%3A/Users/MD5047428/Desktop/MY%20Codes/MY%20Carrier/.metadata/codemix.code-workspace"
+            },
+            {
+                "id": "9bb85a3783e44033be38bde27f695126",
+                "configURIPath": "file:///c%3A/Users/MD5047428/Desktop/MY%20Carrier/.metadata/codemix.code-workspace"
+            }
+        ],
+        "files2": []
+    },
+    "theme": "vs-dark",
+    "themeBackground": "#221a0f"
+}

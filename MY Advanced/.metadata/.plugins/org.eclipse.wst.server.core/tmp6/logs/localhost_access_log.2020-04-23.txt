@@ -1,0 +1,17 @@
+127.0.0.1 - - [23/Apr/2020:11:32:10 +0530] "GET / HTTP/1.1" 404 994
+0:0:0:0:0:0:0:1 - - [23/Apr/2020:11:32:10 +0530] "GET /JSPMVC/ HTTP/1.1" 200 341
+0:0:0:0:0:0:0:1 - - [23/Apr/2020:11:32:20 +0530] "GET /JSPMVC/onRegister?name=mahe&password=admin HTTP/1.1" 500 2866
+127.0.0.1 - - [23/Apr/2020:11:33:04 +0530] "GET / HTTP/1.1" 404 994
+0:0:0:0:0:0:0:1 - - [23/Apr/2020:11:33:05 +0530] "GET /JSPMVC/ HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [23/Apr/2020:11:33:15 +0530] "GET /JSPMVC/onRegister?name=mahe&password=admin HTTP/1.1" 500 3292
+127.0.0.1 - - [23/Apr/2020:11:34:11 +0530] "GET / HTTP/1.1" 404 994
+0:0:0:0:0:0:0:1 - - [23/Apr/2020:11:34:12 +0530] "GET /JSPMVC/ HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [23/Apr/2020:11:34:19 +0530] "GET /JSPMVC/onRegister?name=mahe&password=admin HTTP/1.1" 500 3196
+0:0:0:0:0:0:0:1 - - [23/Apr/2020:11:35:12 +0530] "GET /JSPMVC/onRegister?name=mahe&password=admin HTTP/1.1" 500 3216
+127.0.0.1 - - [23/Apr/2020:11:41:52 +0530] "GET / HTTP/1.1" 404 994
+0:0:0:0:0:0:0:1 - - [23/Apr/2020:11:41:53 +0530] "GET /JSPMVC/index.html HTTP/1.1" 200 341
+0:0:0:0:0:0:0:1 - - [23/Apr/2020:11:42:04 +0530] "GET /JSPMVC/onRegister?name=mahe&password=admin HTTP/1.1" 500 3216
+127.0.0.1 - - [23/Apr/2020:11:46:07 +0530] "GET / HTTP/1.1" 404 994
+0:0:0:0:0:0:0:1 - - [23/Apr/2020:11:46:10 +0530] "GET /JSPMVC/ HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [23/Apr/2020:11:46:16 +0530] "GET /JSPMVC/onRegister?name=mahe&password=admin HTTP/1.1" 200 296
+0:0:0:0:0:0:0:1 - - [23/Apr/2020:11:46:23 +0530] "GET /JSPMVC/onRegister?name=mahe&password=yoge HTTP/1.1" 200 642

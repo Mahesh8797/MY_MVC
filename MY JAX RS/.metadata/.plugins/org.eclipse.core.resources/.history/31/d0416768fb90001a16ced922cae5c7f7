@@ -1,0 +1,18 @@
+package com.mahe.MyFirstWebService.Exception;
+
+import javax.ws.rs.core.Response;
+import javax.ws.rs.ext.ExceptionMapper;
+import javax.ws.rs.ext.Provider;
+
+@Provider
+public class HandleException implements ExceptionMapper 
+{
+
+	@Override
+	public Response toResponse(Throwable ex) {
+		
+		ErrorMessage error=new ErrorMessage();
+		return Response;
+	}
+
+}

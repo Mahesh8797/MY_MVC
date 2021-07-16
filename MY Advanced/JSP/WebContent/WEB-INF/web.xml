@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://xmlns.jcp.org/xml/ns/javaee" xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_3_1.xsd" id="WebApp_ID" version="3.1">
+  <display-name>JSP</display-name>
+  <servlet>
+    <servlet-name>helloServlet</servlet-name>
+   <jsp-file>/implicitObject.jsp</jsp-file>
+     <init-param>
+      <param-name>mahe</param-name>
+      <param-value>yoge</param-value>
+    </init-param>
+  </servlet>
+  <context-param>
+  <param-name>age</param-name>
+      <param-value>23</param-value>
+  </context-param>
+  <servlet-mapping>
+    <servlet-name>helloServlet</servlet-name>
+    <url-pattern>/implicitObject</url-pattern>
+  </servlet-mapping>
+  <welcome-file-list>
+    <welcome-file>implicitObject.html</welcome-file>
+    
+  </welcome-file-list>
+</web-app>

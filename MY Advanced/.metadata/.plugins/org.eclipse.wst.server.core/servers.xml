@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servers>
+  <server auto-publish-setting="2" auto-publish-time="1" configuration-id="/Servers/Tomcat v9.0 Server at localhost-config" deployDir="wtpwebapps" hostname="localhost" id="Tomcat v9.0 Server at localhost" name="Tomcat v9.0 Server at localhost" runtime-id="Apache Tomcat v9.0" server-type="org.eclipse.jst.server.tomcat.90" server-type-id="org.eclipse.jst.server.tomcat.90" start-timeout="45" stop-timeout="15" testEnvironment="true" timestamp="1">
+    <list key="modules" value0="AdvancedServlets::org.eclipse.jst.jee.server:AdvancedServlets::jst.web::3.1"/>
+  </server>
+  <server auto-publish-setting="2" auto-publish-time="1" configuration-id="/Servers/Tomcat v9.0 Server at localhost (2)-config" deployDir="wtpwebapps" hostname="localhost" id="Tomcat v9.0 Server at localhost (2)" name="Tomcat v9.0 Server at localhost (2)" runtime-id="Apache Tomcat v9.0 (2)" server-type="org.eclipse.jst.server.tomcat.90" server-type-id="org.eclipse.jst.server.tomcat.90" start-timeout="45" stop-timeout="15" testEnvironment="true" timestamp="1">
+    <list key="modules" value0="SessionManagement::org.eclipse.jst.jee.server:SessionManagement::jst.web::3.1"/>
+  </server>
+  <server auto-publish-setting="2" auto-publish-time="1" configuration-id="/Servers/Tomcat v9.0 Server at localhost (3)-config" deployDir="wtpwebapps" hostname="localhost" id="Tomcat v9.0 Server at localhost (3)" name="Tomcat v9.0 Server at localhost (3)" runtime-id="Apache Tomcat v9.0 (3)" server-type="org.eclipse.jst.server.tomcat.90" server-type-id="org.eclipse.jst.server.tomcat.90" start-timeout="45" stop-timeout="15" testEnvironment="true" timestamp="1">
+    <list key="modules" value0="ExceptionHandling::org.eclipse.jst.jee.server:ExceptionHandling::jst.web::3.1"/>
+  </server>
+  <server auto-publish-setting="2" auto-publish-time="1" configuration-id="/Servers/Tomcat v9.0 Server at localhost (4)-config" deployDir="wtpwebapps" hostname="localhost" id="Tomcat v9.0 Server at localhost (4)" name="Tomcat v9.0 Server at localhost (4)" runtime-id="Apache Tomcat v9.0 (4)" server-type="org.eclipse.jst.server.tomcat.90" server-type-id="org.eclipse.jst.server.tomcat.90" start-timeout="45" stop-timeout="15" testEnvironment="true" timestamp="1">
+    <list key="modules" value0="JSP::org.eclipse.jst.jee.server:JSP::jst.web::3.1"/>
+  </server>
+  <server auto-publish-setting="2" auto-publish-time="1" configuration-id="/Servers/Tomcat v9.0 Server at localhost (5)-config" deployDir="wtpwebapps" hostname="localhost" id="Tomcat v9.0 Server at localhost (5)" name="Tomcat v9.0 Server at localhost (5)" runtime-id="Apache Tomcat v9.0 (5)" server-type="org.eclipse.jst.server.tomcat.90" server-type-id="org.eclipse.jst.server.tomcat.90" start-timeout="45" stop-timeout="15" testEnvironment="true" timestamp="1">
+    <list key="modules" value0="JSPDirectives::org.eclipse.jst.jee.server:JSPDirectives::jst.web::3.1"/>
+  </server>
+  <server auto-publish-setting="2" auto-publish-time="1" configuration-id="/Servers/Tomcat v9.0 Server at localhost (6)-config" deployDir="wtpwebapps" hostname="localhost" id="Tomcat v9.0 Server at localhost (6)" name="Tomcat v9.0 Server at localhost (6)" runtime-id="Apache Tomcat v9.0 (6)" server-type="org.eclipse.jst.server.tomcat.90" server-type-id="org.eclipse.jst.server.tomcat.90" start-timeout="45" stop-timeout="15" testEnvironment="true" timestamp="1">
+    <list key="modules" value0="JSPEL_ActionTags::org.eclipse.jst.jee.server:JSPEL_ActionTags::jst.web::3.1"/>
+  </server>
+  <server auto-publish-setting="2" auto-publish-time="1" configuration-id="/Servers/Tomcat v9.0 Server at localhost (7)-config" deployDir="wtpwebapps" hostname="localhost" id="Tomcat v9.0 Server at localhost (7)" name="Tomcat v9.0 Server at localhost (7)" runtime-id="Apache Tomcat v9.0 (7)" server-type="org.eclipse.jst.server.tomcat.90" server-type-id="org.eclipse.jst.server.tomcat.90" start-timeout="45" stop-timeout="15" testEnvironment="true" timestamp="1">
+    <list key="modules" value0="JSPMVC::org.eclipse.jst.jee.server:JSPMVC::jst.web::3.1"/>
+  </server>
+  <server auto-publish-setting="2" auto-publish-time="1" configuration-id="/Servers/Tomcat v9.0 Server at localhost (8)-config" deployDir="wtpwebapps" hostname="localhost" id="Tomcat v9.0 Server at localhost (8)" name="Tomcat v9.0 Server at localhost (8)" runtime-id="Apache Tomcat v9.0 (8)" server-type="org.eclipse.jst.server.tomcat.90" server-type-id="org.eclipse.jst.server.tomcat.90" start-timeout="45" stop-timeout="15" testEnvironment="true" timestamp="1">
+    <list key="modules" value0="X_AttributeProject::org.eclipse.jst.jee.server:X_AttributeProject::jst.web::3.1"/>
+  </server>
+  <server auto-publish-setting="2" auto-publish-time="1" configuration-id="/Servers/Tomcat v9.0 Server at localhost (9)-config" deployDir="wtpwebapps" hostname="localhost" id="Tomcat v9.0 Server at localhost (9)" name="Tomcat v9.0 Server at localhost (9)" runtime-id="Apache Tomcat v9.0 (9)" server-type="org.eclipse.jst.server.tomcat.90" server-type-id="org.eclipse.jst.server.tomcat.90" start-timeout="45" stop-timeout="15" testEnvironment="true" timestamp="3">
+    <list key="modules" value0="XMVCPattern::org.eclipse.jst.jee.server:XMVCPattern::jst.web::3.1"/>
+  </server>
+  <server auto-publish-setting="2" auto-publish-time="1" configuration-id="/Servers/Tomcat v9.0 Server at localhost (10)-config" deployDir="wtpwebapps" hostname="localhost" id="Tomcat v9.0 Server at localhost (10)" name="Tomcat v9.0 Server at localhost (10)" runtime-id="Apache Tomcat v9.0 (10)" server-type="org.eclipse.jst.server.tomcat.90" server-type-id="org.eclipse.jst.server.tomcat.90" start-timeout="45" stop-timeout="15" testEnvironment="true" timestamp="2">
+    <list key="modules" value0="jdbc_concept::org.eclipse.jst.jee.server:jdbc_concept::jst.web::3.1"/>
+  </server>
+</servers>

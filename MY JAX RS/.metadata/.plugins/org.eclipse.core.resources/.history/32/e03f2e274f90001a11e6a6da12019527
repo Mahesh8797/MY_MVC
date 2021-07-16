@@ -1,0 +1,5 @@
+package com.mahe.MyFirstWebService.database;
+
+public class DatabaseClass {
+
+}

@@ -1,0 +1,25 @@
+package com.mahe.MyFirstWebService.service;
+
+import java.util.ArrayList;
+import java.util.List;
+
+import com.mahe.MyFirstWebService.database.DatabaseClass;
+import com.mahe.MyFirstWebService.model.Message;
+
+public class MessageService 
+{
+
+	private Map<Long, Message> message=DatabaseClass.getAllMessages()
+	
+	public List<Message> getAllMessages()
+	{
+		Message m1=new Message("mahe",1,"yoge");
+		Message m2=new Message("yoge",2,"kand");
+		List<Message> list=new ArrayList<Message>();
+		list.add(m1);
+		list.add(m2);
+		return list;
+	}
+	
+	
+}

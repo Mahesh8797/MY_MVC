@@ -1,0 +1,14 @@
+package com.mahe.MyFirstWebService.model;
+
+import java.util.Date;
+
+public class Profile 
+{
+
+	private int id;
+	private String profileName;
+	private String firstName;
+	private String lastName;
+	private Date created;
+	
+}

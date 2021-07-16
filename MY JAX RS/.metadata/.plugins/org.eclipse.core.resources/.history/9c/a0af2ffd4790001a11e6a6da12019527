@@ -1,0 +1,14 @@
+package com.mahe.MyFirstWebService.model;
+
+import java.util.Date;
+
+public class Message 
+{
+
+	private String name;
+	private int id;
+	private Date createdDate;
+	private String author;
+	
+	
+}

@@ -1,0 +1,11 @@
+package com.mahe.MyFirstWebService.resources;
+
+import javax.ws.rs.QueryParam;
+
+public class BeanParamClass 
+{
+
+	private @QueryParam("year") int year;
+    private @QueryParam("start") int start;
+    private @QueryParam("size") int size;
+}

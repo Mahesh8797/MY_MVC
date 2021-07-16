@@ -1,0 +1,13 @@
+package com.mahe.MyFirstWebService.database;
+
+import java.util.HashMap;
+import java.util.Map;
+
+import com.mahe.MyFirstWebService.model.Message;
+
+public class DatabaseClass
+{
+
+	private static Map<Long, Message> message=new  HashMap<>();
+	private static Map<Long, Profile> profile=new HashMap<>();
+}

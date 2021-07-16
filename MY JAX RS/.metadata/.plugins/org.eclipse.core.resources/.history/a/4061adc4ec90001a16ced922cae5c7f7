@@ -1,0 +1,21 @@
+package com.mahe.MyFirstWebService.resources.subresource;
+
+import javax.ws.rs.GET;
+import javax.ws.rs.Path;
+
+@Path("/")
+public class CommentResource {
+	
+	@GET
+	public String getMethod()
+	{
+		return "new sub resource";
+	}
+
+	@GET
+	@Path("/{commentID}")
+	public String getm(@PathParam("commentId") long id)
+	{
+		return "comments first one";
+	}
+}

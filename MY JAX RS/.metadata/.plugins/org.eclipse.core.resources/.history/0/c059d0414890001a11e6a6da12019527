@@ -1,0 +1,5 @@
+package com.mahe.MyFirstWebService.service;
+
+public class MessageService {
+
+}

@@ -1,0 +1,27 @@
+package com.mahe.MyFirstWebService.resources.subresource;
+
+import java.util.List;
+
+import javax.ws.rs.GET;
+import javax.ws.rs.Path;
+
+import com.mahe.MyFirstWebService.model.Comment;
+import com.mahe.MyFirstWebService.service.CommentService;
+
+@Path("/")
+public class CommentResource {
+	
+
+	CommentService cs=new CommentService();			
+
+	@GET
+	public List<Comment> getComments(@PathParam("messageId") long messageId)
+	{
+		
+	}
+	{
+		
+	}
+	
+	
+}

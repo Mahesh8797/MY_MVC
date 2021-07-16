@@ -1,0 +1,10 @@
+package com.mahe.MyFirstWebService.model;
+
+import java.util.Date;
+
+public class Comment {
+	private String name;
+	private long id;
+	private Date createdDate;
+	private String author;
+}

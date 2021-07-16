@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<modules>
+  <module moduleId="org.eclipse.jst.jee.server:XMVCPattern" serverId="Tomcat v9.0 Server at localhost (9)"/>
+  <module moduleId="org.eclipse.jst.jee.server:ExceptionHandling" serverId="Tomcat v9.0 Server at localhost (3)"/>
+  <module moduleId="org.eclipse.jst.jee.server:JSPMVC" serverId="Tomcat v9.0 Server at localhost (7)"/>
+  <module moduleId="org.eclipse.jst.jee.server:hello" serverId="Tomcat v9.0 Server at localhost (2)"/>
+  <module moduleId="org.eclipse.jst.jee.server:SessionManagement" serverId="Tomcat v9.0 Server at localhost (2)"/>
+  <module moduleId="org.eclipse.jst.jee.server:AdvancedServlets" serverId="Tomcat v9.0 Server at localhost"/>
+  <module moduleId="org.eclipse.jst.jee.server:JSPEL_ActionTags" serverId="Tomcat v9.0 Server at localhost (6)"/>
+  <module moduleId="org.eclipse.jst.jee.server:JSPDirectives" serverId="Tomcat v9.0 Server at localhost (5)"/>
+  <module moduleId="org.eclipse.jst.jee.server:X_AttributeProject" serverId="Tomcat v9.0 Server at localhost (8)"/>
+  <module moduleId="org.eclipse.jst.jee.server:JSP" serverId="Tomcat v9.0 Server at localhost (4)"/>
+</modules>
